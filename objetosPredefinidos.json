@@ -1,0 +1,10 @@
+[
+    {"nombre": "heladera", "ancho": 60, "alto" : 160, "profundidad" : 70},
+    {"nombre": "cocina", "ancho":60, "alto":70, "profundidad":60},
+    {"nombre": "cuatriciclo", "ancho":120, "alto":110, "profundidad":170},
+    {"nombre": "podadora", "ancho":40, "alto":100, "profundidad":100},
+    {"nombre": "hidrolavadora", "ancho":40, "alto":60, "profundidad":40},
+    {"nombre": "bicicleta", "ancho":60, "alto":120, "profundidad":180},
+    {"nombre": "guitarra", "ancho":40, "alto":90, "profundidad":25},
+    {"nombre": "bateria", "ancho":180, "alto":160, "profundidad":180}
+]
